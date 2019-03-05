@@ -1,0 +1,50 @@
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+style.css
+.xleftcol {
+    float: left;
+    width: 33%;
+    background:#809900;
+ }
+ .xmiddlecol {
+    float: left;
+    width: 34%;
+    background:#eff2df;
+ }
+body{
+	background: blue;
+	color: white;
+}
+p {
+
+color: #FFFFFF;
+
+font-family: arial;
+
+background: #FF0000;
+
+font-weight: bold;
+
+}
+
+p.group {
+
+color: #FF0000; /* membuat warna text putih */
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+background: gray; /* membuat background putih */
+
+}
+
+p#one {
+
+color: rgb(0, 255, 242);
+
+font-family: “times new roman”;
+
+
+}
+</head>
